@@ -1,2 +1,3 @@
 # DAGGER-simulations
-MATLAB code for DAGGER simulations for my Part III essay
+MATLAB code to reproduce results from DAGGER simulations for my Part III essay
+Simply run simulation.m in MATLAB
